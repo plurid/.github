@@ -1,5 +1,7 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/plurid/.github/master/about/image/plurid-logo.png" height="250px">
+    <a target="_blank" href="https://plurid.com">
+        <img src="https://raw.githubusercontent.com/plurid/.github/master/about/image/plurid-logo.png" height="250px">
+    </a>
 </p>
 
 
